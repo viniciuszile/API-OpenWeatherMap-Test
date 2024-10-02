@@ -7,7 +7,6 @@
 
 .container_1{
     width: 100%;
-    background-color: rgb(43, 39, 39);
     height: 300px;
     display: flex;
     justify-content: space-evenly;
@@ -17,7 +16,6 @@
 
 .container_2{
     width: 100%;
-    background-color: rgb(153, 139, 139);
     height: 300px;
     display: flex;
     justify-content: space-evenly;
