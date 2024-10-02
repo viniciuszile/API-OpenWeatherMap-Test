@@ -1,0 +1,76 @@
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container_1{
+    width: 100%;
+    background-color: rgb(43, 39, 39);
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container_2{
+    width: 100%;
+    background-color: rgb(153, 139, 139);
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imagem{
+    width: 150px;
+    height: 150px;
+}
+
+
+.input_cidade{
+    height: 30px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+
+}
+
+.label_cidade{
+    color:  white;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(7, 7, 7);
+    color: rgb(214, 214, 214);
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    margin-top: 10%;
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
